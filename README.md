@@ -1,0 +1,1 @@
+Information retrieval is the process of extracting useful information from unstructured data that satisfies information needs from large collection of data. 
